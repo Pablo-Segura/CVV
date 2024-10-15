@@ -1,8 +1,17 @@
 .titulo{
-    color: blueviolet;
+    text-align: center;
+    color: black;
+    background-color: brown
     
 }
 .foto{
     width: 320px;
     height: 200px;
+}
+h2{
+    font-style: oblique;
+    background-color: brown;
+}body{
+    
+    background-color: beige;
 }
